@@ -3,12 +3,15 @@
   "version": "0.1.0",
   "main": "dist/index.js",
   "module": "dist/index.js",
+  "homepage": "http://VincentHenon.github.io/simple-react-modal_example",
   "files": [
     "dist"
   ],
   "scripts": {
     "start": "react-scripts start",
     "build-examples": "react-scripts build",
+    "predeploy": "npm run build-examples",
+    "deploy": "gh-pages -d build" ,
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "build": "rimraf dist && NODE_ENV=production babel src/lib --out-dir dist --copy-files --ignore __tests__,spec.js,test.js,__snapshots__"

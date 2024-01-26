@@ -1,3 +1,6 @@
-simple modal for react
-go to www.***
-to see how to use it.
+-- simple modal for react --
+Please go to 
+
+https://vincenthenon.github.io/simple-react-modal_example/
+
+to see how to use this component library.
