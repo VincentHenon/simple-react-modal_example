@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-react-modal_example/static/css/main.25bafcff.css",
+    "main.js": "/simple-react-modal_example/static/js/main.cf8c3585.js",
+    "index.html": "/simple-react-modal_example/index.html",
+    "main.25bafcff.css.map": "/simple-react-modal_example/static/css/main.25bafcff.css.map",
+    "main.cf8c3585.js.map": "/simple-react-modal_example/static/js/main.cf8c3585.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25bafcff.css",
+    "static/js/main.cf8c3585.js"
+  ]
+}
